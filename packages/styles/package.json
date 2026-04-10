@@ -1,0 +1,11 @@
+{
+  "name": "@repo/styles",
+  "version": "0.0.0",
+  "private": true,
+  "exports": {
+    "./globals.css": "./globals.css"
+  },
+  "dependencies": {
+    "tailwindcss": "^4.1.11"
+  }
+}
